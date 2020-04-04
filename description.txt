@@ -1,0 +1,5 @@
+HeartToArt is a photo sharing platform for everyone from the occasional stick-figure doodler to the professional caricaturist. HeartToArt empowers users to post original art, create new masterpieces, or put their own spin on a friend’s post. 
+
+It will allow users to draw an image within the app with their fingers or stylus and upload it to their profiles for their HeartToArt friends to see. Users will also be able to upload images from their phone to draw on them as a background. With a variety of colors and shapes, any user can create a digital piece of art worthy of posting! There will also be functionality for users to remix their friend’s images and post them to their own profiles. HeartToArt allows fingers to translate human connection through art.
+
+We hope to build a mobile application that will promote positivity while staying indoors :)
